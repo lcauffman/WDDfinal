@@ -8,7 +8,7 @@ body {
     font-size: 22px;
     margin: 0auto;
     padding: 0auto;
-    
+    width: 100%;
 }
 #content {
     max-width: 1600px;
